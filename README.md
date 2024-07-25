@@ -4,4 +4,4 @@
 
 https://mybinder.org/v2/gh/Kaleb-Voight/ML_Py/main
 
-This was made using "Your First Machine Learning Project in R Step-By-Step" by Jason Brownlee.
+This was made using "Your First Machine Learning Project in Python Step-By-Step" by Jason Brownlee.
